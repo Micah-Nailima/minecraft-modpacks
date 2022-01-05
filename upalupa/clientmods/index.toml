@@ -1,0 +1,181 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/advancementinfo.toml"
+hash = "3038c49289bf9688d81e821d6f246e74b8ff17d155f6e354310c0fb095002644"
+metafile = true
+
+[[files]]
+file = "mods/animatica.toml"
+hash = "509a6b36ee65f458986dd19eb09b4c5f5feda7a976937a3cb6dfe4fee095797c"
+metafile = true
+
+[[files]]
+file = "mods/antighost.toml"
+hash = "99d0687e8d1da22de0944a12724b8407000307b1c73c54f531f5298cfa38821c"
+metafile = true
+
+[[files]]
+file = "mods/capes.toml"
+hash = "eef7bb485e3256f64c611371f1ae5df7606929cc22b7a9d510c8c3adb542bd2d"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.toml"
+hash = "0267ed3b0f26a6a3b4cb59756beba5b93b6ba85ff356da35aff3e4bb73c9f06f"
+metafile = true
+
+[[files]]
+file = "mods/clear-skies.toml"
+hash = "992b8f8dcd5e6d5f822c3974e7525a166ca8e41a68e8d308c6a89b0f6c122f3f"
+metafile = true
+
+[[files]]
+file = "mods/cloth-api.toml"
+hash = "3c329350a1ade79fa329aa932188659dc361d4917a0fcb07159b5eeb240f97f2"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
+metafile = true
+
+[[files]]
+file = "mods/colormatic.toml"
+hash = "470bcb92497ab224c9d0aca842361e108066962d3976a01e7c90b59a682ed837"
+metafile = true
+
+[[files]]
+file = "mods/continuity.toml"
+hash = "c39a0cc43a6722cfff7bc8c90233da3757551becf1b4dacc4e425ae0cefaf2d4"
+metafile = true
+
+[[files]]
+file = "mods/cull-leaves.toml"
+hash = "5042a5c75a0e7965504e3c8519bfd932eec8f7f594497d31f5af3eb89ffa4ab1"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-sound-filters.toml"
+hash = "de8b5e20ef10cae9d8233b2d3f34970e354b88548827b60b4aa27fbfd76ce9fc"
+metafile = true
+
+[[files]]
+file = "mods/ebe.toml"
+hash = "c58834af10ab46edeb4946b55f4d71cf9bced4d37aef0ee122a5a7e4e9e17153"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.toml"
+hash = "114395acdb903faf33561e5e653d1b4a0deed26af32781cdbb7eef2965aff1fe"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "7440c32952d475bef0bf434b9491c3679c78df56781d083d08ec26bb354b8901"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "7f4996fc7ac9367f157cbd94ac9b4601225279d457df78f66941a157e8592eb0"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes.toml"
+hash = "fda9faaeaaf2f4cf9941c4df0d87c26353f800ef1418372d2d1cf7efc9dbb643"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.toml"
+hash = "0c3af8d62cacd0560cfb3102986b9f058bd07d0cc7cb7ea16b8dd9a10cc93f93"
+metafile = true
+
+[[files]]
+file = "mods/indium.toml"
+hash = "177d9e7706d685b7d8b8f964702aac4f9bd080687ee1496fc289f295056b8a23"
+metafile = true
+
+[[files]]
+file = "mods/iris.toml"
+hash = "51459057d731fd7508b48ab92ced48499346ec712b9c8d4f6eebe20c9dc2651c"
+metafile = true
+
+[[files]]
+file = "mods/item-model-fix.toml"
+hash = "5841e176057ffa9f0716ec213a32d1dd77422ec32c1fc8b19adf6673c8735d69"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.toml"
+hash = "667191c6c61deaf4a200518f2fb14dc90923ae64faadc1365ff432b0a36764d9"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.toml"
+hash = "47458ce2df66d83b675111daa48e7721ecfb30284a595235f1cce1cabcae638e"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "490cf7564c6825e36933785196a6302c58f9d2658f60e2d2fb1f85ed112e36d1"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "113730a58c9e46dbf8b17632baf1fbafe4e24ccbb8d8b3e9898bf3f5a38f435c"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.toml"
+hash = "4f9056a630be5f300b095bf9b4e268c9c1d6f85def91e590887d5c3198ae2bd1"
+metafile = true
+
+[[files]]
+file = "mods/nofog.toml"
+hash = "a50ca6f2b5916a1ebb87575cbef5240d33bdf5ed5724e7e15279187957b4050c"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.toml"
+hash = "b5e2c3c08224e46e840c739f0b77bb22949373cc76d0ba90ddb22e52ecaa04c7"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.toml"
+hash = "1b13536a1c6ad0fae0bded3657f91146b157384b787b4f7c660ee33ab34c7178"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.toml"
+hash = "ec04cd647d3b8162a7a63b9ff89ac89accacba3328fea481ab7f0ae42b98d0c9"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.toml"
+hash = "ff37312db9aa47482f80692d42fd9d77902e4a6436e4f04afaa3378b925541ec"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.toml"
+hash = "d9aee3833ae4d543f820fda7f7989bee36b34556d031e614b2c4ab7e82620ff2"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "55f39b31f37997e41e0578693103e50cebc79d4eee509801479cc50a75eeb347"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.toml"
+hash = "28b48053e5e932741e9a321e2f62d8595fe52e6c1ced9fbda3e0ab80b43030ee"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.toml"
+hash = "25ba1f543d497256054d05bbbab6e0c4f5aa9796cd53191d4b381297fd98c81d"
+metafile = true

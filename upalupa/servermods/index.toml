@@ -1,0 +1,96 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/bluemap.toml"
+hash = "d1a3e18ff46fe80ef36872867a167edfb013bf256b80b9626c637157fc253a7c"
+metafile = true
+
+[[files]]
+file = "mods/carpet-fixes.toml"
+hash = "4c86add1d11b9d6342e9086b7616ffb64639cd401440c94fc203f1454d1b5157"
+metafile = true
+
+[[files]]
+file = "mods/carpet.toml"
+hash = "dbbcfc2308ec8ec1f3c2b1fcf2495f7414bcae168ca833847e1b8a12f1f436d7"
+metafile = true
+
+[[files]]
+file = "mods/clumps.toml"
+hash = "ad213896f2aadffb419b70ff4c82233c0c511f628d31dbb37f7738be99c259e7"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "7440c32952d475bef0bf434b9491c3679c78df56781d083d08ec26bb354b8901"
+metafile = true
+
+[[files]]
+file = "mods/fabric-discord-link.toml"
+hash = "4cead679cec7aeb8da9f652c8c234fcb28af9e62709413e9485c4dd0249dd341"
+metafile = true
+
+[[files]]
+file = "mods/fabricproxy-lite.toml"
+hash = "021f1733c47b0c47569a41c18491a29ea0c539b11b8be57e6f7517e221aeb3e2"
+metafile = true
+
+[[files]]
+file = "mods/fast-furnace-for-fabric.toml"
+hash = "9ea34bd53ee193c659de4a08c0019e3978b649ea94577ff85cff6e79e546abd4"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.toml"
+hash = "ee1384200c35fee039a2a6f95a62a7de25340cd831521a0a90ab82b94b36e951"
+metafile = true
+
+[[files]]
+file = "mods/fuck-namemc.toml"
+hash = "e77f8f8aaa41912eb6be5807c4b16f43d210f9515f60f4ada21cc374dbb4126a"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "ffa430c24d8d6862b804c483a9070340fd3a89f858f8a5869b715534a06a04de"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "490cf7564c6825e36933785196a6302c58f9d2658f60e2d2fb1f85ed112e36d1"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.toml"
+hash = "b5e2c3c08224e46e840c739f0b77bb22949373cc76d0ba90ddb22e52ecaa04c7"
+metafile = true
+
+[[files]]
+file = "mods/recipe-cache.toml"
+hash = "cd4b936dd60465bd7ab3f739a233bcf770d0a7d0bc7b3ef96292b6bf9348ad3d"
+metafile = true
+
+[[files]]
+file = "mods/servercore.toml"
+hash = "204cd95ace0294341f5f72d317ea371011a2442839dd1f1b6345364b083e7193"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.toml"
+hash = "b02a67240850ccf5231ae75f8427d44607a2b7dfa1061fe628a06d02a0d23ca9"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.toml"
+hash = "a2097cc393eb81d7bd5738f0b247aebf624058e157f078ebd722283079286b7d"
+metafile = true
+
+[[files]]
+file = "mods/tabtps.toml"
+hash = "423367b6f120da3a88ca9a6c80faf99e3c6f09d535ce294d199505a457288a68"
+metafile = true
