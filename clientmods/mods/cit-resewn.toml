@@ -1,0 +1,13 @@
+name = "CIT Resewn"
+filename = "CITResewn-0.8.2+1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3586/968/CITResewn-0.8.2+1.18.1.jar"
+hash-format = "murmur2"
+hash = "2401828346"
+
+[update]
+[update.curseforge]
+file-id = 3586968
+project-id = 521427
