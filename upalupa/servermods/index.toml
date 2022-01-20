@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.toml"
-hash = "dbbcfc2308ec8ec1f3c2b1fcf2495f7414bcae168ca833847e1b8a12f1f436d7"
+hash = "fa490b1c5ba0b5b562059ebcb4c955bfe22185ac957ce9c032408f8b7fef0dd8"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "7440c32952d475bef0bf434b9491c3679c78df56781d083d08ec26bb354b8901"
+hash = "fddae77c9ef535807b9e347d8ad3d74f13ad6e3350b6d5499366d140dd0832f3"
 metafile = true
 
 [[files]]
@@ -77,17 +77,17 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.toml"
-hash = "204cd95ace0294341f5f72d317ea371011a2442839dd1f1b6345364b083e7193"
+hash = "d6cf2898ad07a8b910defbb35e4194867145c0255cd96b7bf0cc0f7be81ffba3"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "b02a67240850ccf5231ae75f8427d44607a2b7dfa1061fe628a06d02a0d23ca9"
+hash = "feadea71d021edea92e3b51ad14dedf38ca5b3a550dcb9e45522526dc765a84b"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.toml"
-hash = "a2097cc393eb81d7bd5738f0b247aebf624058e157f078ebd722283079286b7d"
+hash = "fafdff62c5305481d46c6e7990ebbf8781396f2bc5baada513ae0275d23b7a1d"
 metafile = true
 
 [[files]]
