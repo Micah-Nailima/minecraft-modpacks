@@ -1,13 +1,13 @@
 name = "Fabric-Discord Link"
-filename = "Fabric-Discord-Link-0.10.3.jar"
+filename = "Fabric-Discord-Link-0.10.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3591/639/Fabric-Discord-Link-0.10.3.jar"
+url = "https://edge.forgecdn.net/files/3614/860/Fabric-Discord-Link-0.10.4.jar"
 hash-format = "murmur2"
-hash = "2317161024"
+hash = "1422739903"
 
 [update]
 [update.curseforge]
-file-id = 3591639
+file-id = 3614860
 project-id = 318315

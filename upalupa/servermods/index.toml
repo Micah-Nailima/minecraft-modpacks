@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.toml"
-hash = "ad213896f2aadffb419b70ff4c82233c0c511f628d31dbb37f7738be99c259e7"
+hash = "bcf6015b39caa1d6be765147a511ee8a1b579fa0d6b039728044b3735207ba8d"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-discord-link.toml"
-hash = "4cead679cec7aeb8da9f652c8c234fcb28af9e62709413e9485c4dd0249dd341"
+hash = "754950ba233c4312f31c783965cb6bdf030204b3b8bf010843463537066f7feb"
 metafile = true
 
 [[files]]
@@ -93,4 +93,9 @@ metafile = true
 [[files]]
 file = "mods/tabtps.toml"
 hash = "423367b6f120da3a88ca9a6c80faf99e3c6f09d535ce294d199505a457288a68"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.toml"
+hash = "247a402c43f4b2f61d4a38946b3c27ba5f9665eedf9709942eb21eff5707b6ce"
 metafile = true
