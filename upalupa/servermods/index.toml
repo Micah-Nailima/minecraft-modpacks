@@ -17,12 +17,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "fddae77c9ef535807b9e347d8ad3d74f13ad6e3350b6d5499366d140dd0832f3"
+hash = "56371e0a7b084daf096af668da39a182ad5f9261aa339138f5a53bbece9be8d0"
 metafile = true
 
 [[files]]
 file = "mods/fabric-discord-link.toml"
-hash = "754950ba233c4312f31c783965cb6bdf030204b3b8bf010843463537066f7feb"
+hash = "c3f842ebb38fb41b470f5a7ab0f9565e53398171ad24b56a4785c674b425be2a"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.toml"
-hash = "ee1384200c35fee039a2a6f95a62a7de25340cd831521a0a90ab82b94b36e951"
+hash = "62ae515b23a29b50292c009c8ea240d93b12cc603244848ab8da2b4c29e68d1a"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "feadea71d021edea92e3b51ad14dedf38ca5b3a550dcb9e45522526dc765a84b"
+hash = "604f6472bc30e5597236308a14322441db04e31d42ecb5024dd528e02f79a606"
 metafile = true
 
 [[files]]
@@ -92,5 +92,5 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.toml"
-hash = "247a402c43f4b2f61d4a38946b3c27ba5f9665eedf9709942eb21eff5707b6ce"
+hash = "3ccdfbed7f21ea5496e064d32727ce54b58244d1a0218343a56fb1910eacda99"
 metafile = true
