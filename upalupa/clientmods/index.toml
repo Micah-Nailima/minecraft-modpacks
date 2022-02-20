@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "7bbfbed46e2604c84df612e950efed8ba7fce4ed6f6afd97c5f07cc5a2f7cd2b"
+hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
 metafile = true
 
 [[files]]
@@ -62,12 +62,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.toml"
-hash = "114395acdb903faf33561e5e653d1b4a0deed26af32781cdbb7eef2965aff1fe"
+hash = "ef022f83989bc40467264755f5864f6a2ab42a02edda3b9a400c0f4ad55d0896"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "fddae77c9ef535807b9e347d8ad3d74f13ad6e3350b6d5499366d140dd0832f3"
+hash = "56371e0a7b084daf096af668da39a182ad5f9261aa339138f5a53bbece9be8d0"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.toml"
-hash = "0c3af8d62cacd0560cfb3102986b9f058bd07d0cc7cb7ea16b8dd9a10cc93f93"
+hash = "14c5788025b1a75cb738143110ec69fa0f9775e9e38e8002399a7efa095f512f"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
-hash = "fa59519fd3ea56a7eba3a5685a41cb4378aed1799be4c16b214bbb916a747f85"
+hash = "f3e661afc008af30119e58d6a0742bc56424a8642fae6bb2335d70860550270d"
 metafile = true
 
 [[files]]
@@ -152,12 +152,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "feadea71d021edea92e3b51ad14dedf38ca5b3a550dcb9e45522526dc765a84b"
+hash = "604f6472bc30e5597236308a14322441db04e31d42ecb5024dd528e02f79a606"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "b305736c856abcac41b254d2a8b0c49b639276abcca6586ee4f5c07418b82016"
+hash = "f0ab553dfbd753da7774768a0589771b9bf1f4157d3735315fd6aca5c0c16322"
 metafile = true
 
 [[files]]
