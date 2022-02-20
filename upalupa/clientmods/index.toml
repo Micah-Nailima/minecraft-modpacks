@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods.txt"
+hash = "341ea3d44a02fc8188f189fd610af7e32e12f5efcf655064dac9dea08756dc99"
+
+[[files]]
 file = "mods/advancementinfo.toml"
 hash = "3038c49289bf9688d81e821d6f246e74b8ff17d155f6e354310c0fb095002644"
 metafile = true
