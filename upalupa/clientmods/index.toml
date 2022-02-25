@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.toml"
-hash = "c39a0cc43a6722cfff7bc8c90233da3757551becf1b4dacc4e425ae0cefaf2d4"
+hash = "c64ecdf2decf5898efc6f1a99cf843f81ed2391020336d93228f95b529d8ef34"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "490cf7564c6825e36933785196a6302c58f9d2658f60e2d2fb1f85ed112e36d1"
+hash = "4e0d26b8af24dbc7220b2708ab13ad9cf6646442e3ebccc6ceebdef152345656"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "604f6472bc30e5597236308a14322441db04e31d42ecb5024dd528e02f79a606"
+hash = "8c7e4e08d14fad6880d6074918df68050a9087da9f6a80f9e8cdf1738c011585"
 metafile = true
 
 [[files]]

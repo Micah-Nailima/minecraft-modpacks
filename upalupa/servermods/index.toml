@@ -6,6 +6,11 @@ hash = "d1a3e18ff46fe80ef36872867a167edfb013bf256b80b9626c637157fc253a7c"
 metafile = true
 
 [[files]]
+file = "mods/carpet-fixes.toml"
+hash = "4c86add1d11b9d6342e9086b7616ffb64639cd401440c94fc203f1454d1b5157"
+metafile = true
+
+[[files]]
 file = "mods/carpet.toml"
 hash = "fa490b1c5ba0b5b562059ebcb4c955bfe22185ac957ce9c032408f8b7fef0dd8"
 metafile = true
@@ -22,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-discord-link.toml"
-hash = "c3f842ebb38fb41b470f5a7ab0f9565e53398171ad24b56a4785c674b425be2a"
+hash = "30362924dd447b92e80a0018f168c31d70f045dc455a5776645d2c796689a581"
 metafile = true
 
 [[files]]
@@ -37,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.toml"
-hash = "62ae515b23a29b50292c009c8ea240d93b12cc603244848ab8da2b4c29e68d1a"
+hash = "32f86897ed44b041a79f0f90246ac35b400a427f7c206140007b6a9939a225b5"
 metafile = true
 
 [[files]]
@@ -57,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "490cf7564c6825e36933785196a6302c58f9d2658f60e2d2fb1f85ed112e36d1"
+hash = "4e0d26b8af24dbc7220b2708ab13ad9cf6646442e3ebccc6ceebdef152345656"
 metafile = true
 
 [[files]]
@@ -77,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "604f6472bc30e5597236308a14322441db04e31d42ecb5024dd528e02f79a606"
+hash = "8c7e4e08d14fad6880d6074918df68050a9087da9f6a80f9e8cdf1738c011585"
 metafile = true
 
 [[files]]
