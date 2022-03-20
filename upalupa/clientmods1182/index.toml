@@ -6,7 +6,7 @@ hash = "341ea3d44a02fc8188f189fd610af7e32e12f5efcf655064dac9dea08756dc99"
 
 [[files]]
 file = "mods/advancementinfo.toml"
-hash = "3038c49289bf9688d81e821d6f246e74b8ff17d155f6e354310c0fb095002644"
+hash = "46de5114d8a0017b14c0f6b63401fc7a1cb69b0dce336d36e25e80e91b51319b"
 metafile = true
 
 [[files]]
@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/antighost.toml"
-hash = "99d0687e8d1da22de0944a12724b8407000307b1c73c54f531f5298cfa38821c"
+hash = "567dea83368027d9051051a50e777ef5650f9b5ae74d8a8c5cf1fb5abb74c6d5"
 metafile = true
 
 [[files]]
@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-api.toml"
-hash = "bbc23d8aca235565f5423868fbc3b8e378d82a11eec8e9b9d20d1f716ebc6498"
+hash = "0f325317ced484dc5fdd2e9b3d455223eed66c565c426ffd326468e472a951b1"
 metafile = true
 
 [[files]]
@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.toml"
-hash = "c64ecdf2decf5898efc6f1a99cf843f81ed2391020336d93228f95b529d8ef34"
+hash = "a2503cd9f6455bcfd5b5d5d7d5f1350bc005e799918dca1e7d3203c5b67f9ae5"
 metafile = true
 
 [[files]]
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-sound-filters.toml"
-hash = "de8b5e20ef10cae9d8233b2d3f34970e354b88548827b60b4aa27fbfd76ce9fc"
+hash = "70e1489941446daca1b0f5a6609f7cfe9495c0aa47b475019ebd896e97388ea8"
 metafile = true
 
 [[files]]
@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "d09e22b6960590df5462182e20545907bd89ae1f55ae48dfb1134ba5588572ba"
+hash = "e1d62926446ab5519d262d741f9f2f125488bc2048f38aced8d3e1ebec55fe1e"
 metafile = true
 
 [[files]]
@@ -86,22 +86,22 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.toml"
-hash = "fda9faaeaaf2f4cf9941c4df0d87c26353f800ef1418372d2d1cf7efc9dbb643"
+hash = "80c10064a7bbee67ccf3833f6807590de392adb31749576e3689789c0cac9877"
 metafile = true
 
 [[files]]
 file = "mods/fabrishot.toml"
-hash = "14c5788025b1a75cb738143110ec69fa0f9775e9e38e8002399a7efa095f512f"
+hash = "75d8979ac6cdc549e71d3ff2f6fee6f809c17e96d6c37692d9b06568ad1aae1f"
 metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "c94fbad1b3dd7973d2b0f33b03b4683875a0f95ffe0db3be4c90a946a29bb353"
+hash = "df864fbe0b2602c2a0455b789e5e22f65ce1770994dbf3c6fe22a6b4ba9147b7"
 metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "86de763b5496190c776b15871c109ecddf64f4a8f9c2d611e689d9976dd359e3"
+hash = "7486da78ccd788e6df69f762ee14db29fd533bf90b44969480ec1b112942e7fb"
 metafile = true
 
 [[files]]
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.toml"
-hash = "667191c6c61deaf4a200518f2fb14dc90923ae64faadc1365ff432b0a36764d9"
+hash = "01f79a7fb966690009a42f285e779bac8f7958df56240494e4d3d7d862332c2d"
 metafile = true
 
 [[files]]
@@ -126,12 +126,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "4e0d26b8af24dbc7220b2708ab13ad9cf6646442e3ebccc6ceebdef152345656"
+hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "113730a58c9e46dbf8b17632baf1fbafe4e24ccbb8d8b3e9898bf3f5a38f435c"
+hash = "6c8ae85a44ad6fbb5ad412073d3a32591e678fb70fb74d1aea525e9fdc15bcc7"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/nofog.toml"
-hash = "643f3134856ef9c5a80931f967751cd9643b10f4df2d649a025c8ba218467de2"
+hash = "fcb77964f74c646ec734fdda0aeecd6e098f6966bd1d576ebab5a56057297a9d"
 metafile = true
 
 [[files]]
@@ -151,27 +151,27 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
-hash = "f3e661afc008af30119e58d6a0742bc56424a8642fae6bb2335d70860550270d"
+hash = "d935b491016306e60b08bc234cc978ac84412d84d1ae5a9b6f8878a09ea25202"
 metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.toml"
-hash = "ec04cd647d3b8162a7a63b9ff89ac89accacba3328fea481ab7f0ae42b98d0c9"
+hash = "0f214f9a926a741db9627a021809cee9d0deaa8b29a99eadc651a200b2dd669b"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "478b0bb2ebf8e70790b590299f21f75fdaafaf9753ec23912bc096ed8fbc74ab"
+hash = "3caa0d12f577fac10608e87a15f4ecfa76dbeac0ad88dd445223e9de72d6e372"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "f0ab553dfbd753da7774768a0589771b9bf1f4157d3735315fd6aca5c0c16322"
+hash = "1f57f4aea6b574d9abee7605f366547db91894d86d73d2b785a26c0ef6a4d548"
 metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "1f04100ac9ec2dd3d54ad14b91fe5421549704f40e5a8447f842195a041facd8"
+hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
 metafile = true
 
 [[files]]
