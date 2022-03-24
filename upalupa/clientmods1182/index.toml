@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/colormatic.toml"
-hash = "29e90bc358183319c225aaf0bf97a7d24c928b49dea0adfffa02fea8f6bb7644"
+hash = "f37004ea1a77170a692e5f072bec6419c00b42b8fbd4803d189e01946f4eaa67"
 metafile = true
 
 [[files]]
@@ -156,12 +156,12 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.toml"
-hash = "0f214f9a926a741db9627a021809cee9d0deaa8b29a99eadc651a200b2dd669b"
+hash = "2a0ae8867645fe078bc7e6f67ca7eb83d5c650a925c9252740f6121fd29113ec"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "3caa0d12f577fac10608e87a15f4ecfa76dbeac0ad88dd445223e9de72d6e372"
+hash = "4792e3e5855957d56f4c7a69c620c75b40140cfbaa13158c7f9efa442a5cae38"
 metafile = true
 
 [[files]]

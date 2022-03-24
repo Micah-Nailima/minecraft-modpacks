@@ -1,13 +1,13 @@
 name = "Colormatic"
-filename = "colormatic-3.1.0+mc.1.18.1.jar"
+filename = "colormatic-3.1.1+mc.1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3654/601/colormatic-3.1.0+mc.1.18.1.jar"
+url = "https://edge.forgecdn.net/files/3709/15/colormatic-3.1.1+mc.1.18.2.jar"
 hash-format = "sha1"
-hash = "7357a0a45aa4d00d06f52ba9cee643869ae25e40"
+hash = "d3af2a138c40336bd9a62a27499d7ca4e80e8dc4"
 
 [update]
 [update.curseforge]
-file-id = 3654601
+file-id = 3709015
 project-id = 325092
