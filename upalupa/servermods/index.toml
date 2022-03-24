@@ -17,12 +17,12 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.toml"
-hash = "bcf6015b39caa1d6be765147a511ee8a1b579fa0d6b039728044b3735207ba8d"
+hash = "3b72cdc35c9308eb3d0fae47ad58c0f3123e1d671bde3b209f27b8d0e2a71d59"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "56371e0a7b084daf096af668da39a182ad5f9261aa339138f5a53bbece9be8d0"
+hash = "e1d62926446ab5519d262d741f9f2f125488bc2048f38aced8d3e1ebec55fe1e"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.toml"
-hash = "32f86897ed44b041a79f0f90246ac35b400a427f7c206140007b6a9939a225b5"
+hash = "7d40bcc67b4a6c0e1e6e0d0d586ac506834c8df3e906e3a029c39836d5ef2821"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.toml"
-hash = "ffa430c24d8d6862b804c483a9070340fd3a89f858f8a5869b715534a06a04de"
+hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "4e0d26b8af24dbc7220b2708ab13ad9cf6646442e3ebccc6ceebdef152345656"
+hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
 metafile = true
 
 [[files]]
@@ -76,26 +76,21 @@ hash = "cd4b936dd60465bd7ab3f739a233bcf770d0a7d0bc7b3ef96292b6bf9348ad3d"
 metafile = true
 
 [[files]]
-file = "mods/servercore.toml"
-hash = "d6cf2898ad07a8b910defbb35e4194867145c0255cd96b7bf0cc0f7be81ffba3"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "8c7e4e08d14fad6880d6074918df68050a9087da9f6a80f9e8cdf1738c011585"
+hash = "4792e3e5855957d56f4c7a69c620c75b40140cfbaa13158c7f9efa442a5cae38"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.toml"
-hash = "fafdff62c5305481d46c6e7990ebbf8781396f2bc5baada513ae0275d23b7a1d"
+hash = "ef3dc3153d1ef10b6ac6cd061fdeb0c50b55beaf5b65a6bd5e68fdcd40cccf7d"
 metafile = true
 
 [[files]]
 file = "mods/tabtps.toml"
-hash = "423367b6f120da3a88ca9a6c80faf99e3c6f09d535ce294d199505a457288a68"
+hash = "6b5cc538bb76a4a15dd0a6e313f0cc3f9dc55e119b3e7dcb4d0c9d42801f0f15"
 metafile = true
 
 [[files]]
 file = "mods/worldedit.toml"
-hash = "3ccdfbed7f21ea5496e064d32727ce54b58244d1a0218343a56fb1910eacda99"
+hash = "e26b82bdb9bf431309361c50d5b515bb59c77202dfca04d5b0ca11098ab3c881"
 metafile = true
