@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods.txt"
-hash = "341ea3d44a02fc8188f189fd610af7e32e12f5efcf655064dac9dea08756dc99"
+hash = "9423aef7b3d9382b4f36adce868b6b4fa15abfd0fb5ee72c60110b9a7508fe95"
 
 [[files]]
 file = "mods/advancementinfo.toml"
@@ -27,11 +27,6 @@ metafile = true
 [[files]]
 file = "mods/cit-resewn.toml"
 hash = "30aa8e08b8206182bc3a1d4da8e73a8633b289f2c001f9edd2e92f61855d66fd"
-metafile = true
-
-[[files]]
-file = "mods/clear-skies.toml"
-hash = "992b8f8dcd5e6d5f822c3974e7525a166ca8e41a68e8d308c6a89b0f6c122f3f"
 metafile = true
 
 [[files]]
