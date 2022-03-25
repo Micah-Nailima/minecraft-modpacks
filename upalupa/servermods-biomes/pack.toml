@@ -1,0 +1,16 @@
+name = "upalupaServer"
+author = "Nailima"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "450a8488f1d0f2abd520bd119be9c14ba8f2b5cfea8b8f920882151220714706"
+
+[versions]
+fabric = "0.13.3"
+minecraft = "1.18.2"
+
+[options]
+acceptable-game-versions = ["1.18", "1.18.1"]

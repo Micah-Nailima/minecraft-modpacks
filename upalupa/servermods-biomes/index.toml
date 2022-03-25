@@ -1,0 +1,101 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/bluemap.toml"
+hash = "d1a3e18ff46fe80ef36872867a167edfb013bf256b80b9626c637157fc253a7c"
+metafile = true
+
+[[files]]
+file = "mods/carpet-fixes.toml"
+hash = "4c86add1d11b9d6342e9086b7616ffb64639cd401440c94fc203f1454d1b5157"
+metafile = true
+
+[[files]]
+file = "mods/carpet.toml"
+hash = "fa490b1c5ba0b5b562059ebcb4c955bfe22185ac957ce9c032408f8b7fef0dd8"
+metafile = true
+
+[[files]]
+file = "mods/clumps.toml"
+hash = "3b72cdc35c9308eb3d0fae47ad58c0f3123e1d671bde3b209f27b8d0e2a71d59"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "e1d62926446ab5519d262d741f9f2f125488bc2048f38aced8d3e1ebec55fe1e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-discord-link.toml"
+hash = "30362924dd447b92e80a0018f168c31d70f045dc455a5776645d2c796689a581"
+metafile = true
+
+[[files]]
+file = "mods/fabricproxy-lite.toml"
+hash = "021f1733c47b0c47569a41c18491a29ea0c539b11b8be57e6f7517e221aeb3e2"
+metafile = true
+
+[[files]]
+file = "mods/fast-furnace-for-fabric.toml"
+hash = "9ea34bd53ee193c659de4a08c0019e3978b649ea94577ff85cff6e79e546abd4"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.toml"
+hash = "7d40bcc67b4a6c0e1e6e0d0d586ac506834c8df3e906e3a029c39836d5ef2821"
+metafile = true
+
+[[files]]
+file = "mods/fuck-namemc.toml"
+hash = "e77f8f8aaa41912eb6be5807c4b16f43d210f9515f60f4ada21cc374dbb4126a"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.toml"
+hash = "b5e2c3c08224e46e840c739f0b77bb22949373cc76d0ba90ddb22e52ecaa04c7"
+metafile = true
+
+[[files]]
+file = "mods/recipe-cache.toml"
+hash = "cd4b936dd60465bd7ab3f739a233bcf770d0a7d0bc7b3ef96292b6bf9348ad3d"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.toml"
+hash = "4792e3e5855957d56f4c7a69c620c75b40140cfbaa13158c7f9efa442a5cae38"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.toml"
+hash = "ef3dc3153d1ef10b6ac6cd061fdeb0c50b55beaf5b65a6bd5e68fdcd40cccf7d"
+metafile = true
+
+[[files]]
+file = "mods/tabtps.toml"
+hash = "6b5cc538bb76a4a15dd0a6e313f0cc3f9dc55e119b3e7dcb4d0c9d42801f0f15"
+metafile = true
+
+[[files]]
+file = "mods/terralith.toml"
+hash = "314bb864fbd249ff543bb842db256c9a34a4f00645086e2133abe02284f855b9"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.toml"
+hash = "e26b82bdb9bf431309361c50d5b515bb59c77202dfca04d5b0ca11098ab3c881"
+metafile = true

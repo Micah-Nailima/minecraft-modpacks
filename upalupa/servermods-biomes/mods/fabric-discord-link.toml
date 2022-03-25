@@ -1,0 +1,13 @@
+name = "Fabric-Discord Link"
+filename = "Fabric-Discord-Link-0.10.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3655/377/Fabric-Discord-Link-0.10.7.jar"
+hash-format = "sha1"
+hash = "230c4d9ff1953400eaded84809b97e8de68d0a95"
+
+[update]
+[update.curseforge]
+file-id = 3655377
+project-id = 318315
